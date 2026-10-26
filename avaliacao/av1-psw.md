@@ -2,13 +2,13 @@
 
 Repositório: https://github.com/Brielmatos22/E-tecidos-PSW
 
-A nota de cada aluno é a parte comum do grupo mais a qualidade individual. Sem autoria efetiva na própria parte, a AV1 fica 0. A parte comum vale 60 pontos: stack da disciplina (30) e escopo funcionando (30). Os 40 restantes avaliam a qualidade do que o próprio aluno fez.
+A nota de cada aluno é a parte comum do grupo mais a qualidade individual. Quem não tem commit no repositório recebe a parte comum do grupo, sem a parte individual. A parte comum vale 60 pontos: stack da disciplina (30) e escopo funcionando (30). Os 40 restantes avaliam a qualidade do que o próprio aluno fez.
 
 | Aluno | Nota |
 | --- | ---: |
 | Walter Henrique de Avila Goncalves | 85 |
 | Gabriel de Matos Peixoto da Conceicao | 81 |
-| Lorenzo Silva da Torre | 0 |
+| Lorenzo Silva da Torre | 45 |
 
 ## Parte comum — 45/60
 
@@ -49,6 +49,6 @@ Desconto na parte individual:
 
 O restante da parte dele está organizado: `src/utils/api.js` só segue em frente quando a resposta vem com sucesso, as rotas do painel exigem permissão, e as telas separam carregando e erro.
 
-## Lorenzo Silva da Torre — 0
+## Lorenzo Silva da Torre — 45
 
-Não há commit, e-mail nem arquivo com o nome dele no repositório. O dicionário atribui a ele o catálogo, o carrinho e o layout. Essas telas existem, no histórico de Gabriel de Matos Peixoto da Conceicao e de Walter Henrique de Avila Goncalves. Sem commit próprio, a AV1 fica 0.
+Não há commit, e-mail nem arquivo com o nome dele no repositório. O dicionário atribui a ele o catálogo, o carrinho e o layout. Essas telas existem, no histórico de Gabriel de Matos Peixoto da Conceicao e de Walter Henrique de Avila Goncalves. A nota é a parte comum do grupo, 45 pontos. Sem commit, não há parte individual a avaliar.
